@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.blog-item-heading-and-date {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.blog-item-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #12022f;
+  font-weight: bold;
+}
+.date {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #9aa5b1;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #616e7c;
+}
